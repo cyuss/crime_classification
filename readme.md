@@ -1,10 +1,10 @@
 # San Francisco Crime Classification
 Pour ce projet, nous avons réalisé 4 modèles :
 
-	- K Nearest Neighbors,
-	- Régression Logistique,
-	- Arbres de décision,
-	- Boosting (Gradient Boosting).
+	1. K Nearest Neighbors,
+	2. Régression Logistique,
+	3. Arbres de décision,
+	4. Boosting (Gradient Boosting).
 
 ### K Nearest Neighbors
 Nous avons utilisé le langage Python afin de paralléliser notre algorithme vue la grande taille des données, plus précisément nous avons utilisé le package scikit-learn (version 0.17) qu'est très connue par sa rapidité et son efficacité. Le jeu données utilisé a été travaillé en langage R vue sa maturité.
@@ -21,6 +21,7 @@ Nous avons utilisé le langage Python afin de paralléliser notre algorithme vue
 
 ### Régression Logistique
 Ce script est réalisé en R. Ce code est composé de deux parties principales :
+
 	- Organisation des données en créant de nouvelles variables,
 	- Application du modèle.
 #### Organisation des données
