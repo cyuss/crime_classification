@@ -20,7 +20,7 @@ Nous avons utilisé le langage Python afin de paralléliser notre algorithme vue
 - predict_proba : fournit la probabilité d'appartenance à chaque catégorie.
 
 ### Régression Logistique
-Ce script est réalisé en R. Ce code est composé de deux parties principales :
+Ce script est réalisé en R et qui est composé de deux parties principales :
 
 	- Organisation des données en créant de nouvelles variables,
 	- Application du modèle.
