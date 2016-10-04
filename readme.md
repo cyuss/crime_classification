@@ -1,5 +1,6 @@
 # San Francisco Crime Classification
 Pour ce projet, nous avons réalisé 4 modèles :
+
 	- K Nearest Neighbors,
 	- Régression Logistique,
 	- Arbres de décision,
