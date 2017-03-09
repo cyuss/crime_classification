@@ -4,11 +4,11 @@ library(RColorBrewer)
 library(rpart.plot)
 library(randomForest)
 
-# chemin
+# data location (to adapt)
 if (Sys.info()[['sysname']] == "Linux") {
-    path <- "/media/youcef/3c1e8ee4-6478-457b-a5ff-0587a29a0078/Dropbox/crime_classification/"
+    path <- "./crime_classification/"
 } else {
-    path <- "C:/Users/Youcef/Dropbox/crime_classification"
+    path <- "C:/crime_classification"
 } 
 setwd(path)
 
