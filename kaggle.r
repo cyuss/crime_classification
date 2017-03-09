@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 
 # chemin vers le projet
-path <- "/media/youcef/3c1e8ee4-6478-457b-a5ff-0587a29a0078/Dropbox/crime_classification/"
+path <- "./crime_classification/"
 setwd(path)
 
 # charger les données
